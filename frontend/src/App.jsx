@@ -59,6 +59,7 @@ function App() {
       <header className="cabecalho">
         <h1>VIO WEB</h1>
         <p>Venda de Ingressos Online</p>
+	<p className="autor">Daniel Lemos Amparado Junior — DSM 4º Semestre 2026/2</p>
       </header>
 
       <main className="conteudo">
